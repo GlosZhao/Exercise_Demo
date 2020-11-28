@@ -1,0 +1,26 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.unSelect-text {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* 滚动条宽度 */
+  ::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+  }
+  /* 滚动条的滑块 */
+  ::-webkit-scrollbar-thumb {
+    background-color: #a1a3a9;
+    border-radius: 3px;
+ }
