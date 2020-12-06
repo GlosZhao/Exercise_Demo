@@ -18,4 +18,4 @@
 
 ![首页](https://github.com/GlosZhao/Exercise_Demo/blob/blog1.0/showIMG/blog1.0-Client.jpg)
 
-![管理文章界面](https://github.com/GlosZhao/Exercise_Demo/blob/blog1.0/showIMG/blog1.0-Admin.jpg)
+![管理文章界面](https://github.com/GlosZhao/Exercise_Demo/blob/blog1.0/showIMG/blog1.0-Admin.png)
