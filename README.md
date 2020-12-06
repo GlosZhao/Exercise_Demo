@@ -40,9 +40,12 @@ npm install --save connect-history-api-fallback
 
 
 效果图 -->客户端
-!(客户端)[https://github.com/GlosZhao/Exercise_Demo/blob/blog2.0/showIMG/blog2.0Client.jpg]
+![https://github.com/GlosZhao/Exercise_Demo/blob/blog2.0/showIMG/blog2.0Client.jpg](客户端)
+
+
 GIF效果图-->
-!(客户端)[https://github.com/GlosZhao/Exercise_Demo/blob/blog2.0/showIMG/show.gif]
+![https://github.com/GlosZhao/Exercise_Demo/blob/blog2.0/showIMG/show.gif](客户端)
+
 
 后台管理界面
-!(后台管理端)[https://github.com/GlosZhao/Exercise_Demo/blob/blog2.0/showIMG/blog2.0Admin.jpg]
+![https://github.com/GlosZhao/Exercise_Demo/blob/blog2.0/showIMG/blog2.0Admin.jpg](后台管理端)
