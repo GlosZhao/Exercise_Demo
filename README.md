@@ -39,3 +39,10 @@ npm install --save connect-history-api-fallback
 > 3.前后端api进行了封装，同时使用了Axios拦截器进行数据请求头的处理以及返回数据的处理。大大提高代码可读性，也更方便维护。
 
 
+效果图 -->客户端
+!(客户端)[https://github.com/GlosZhao/Exercise_Demo/blob/blog2.0/showIMG/blog2.0Client.jpg]
+GIF效果图-->
+!(客户端)[https://github.com/GlosZhao/Exercise_Demo/blob/blog2.0/showIMG/show.gif]
+
+后台管理界面
+!(后台管理端)[https://github.com/GlosZhao/Exercise_Demo/blob/blog2.0/showIMG/blog2.0Admin.jpg]
