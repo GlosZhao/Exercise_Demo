@@ -1,0 +1,11 @@
+/Client/node_modules/
+/Server/node_modules/
+/Server/public/
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
