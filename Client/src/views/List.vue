@@ -99,7 +99,6 @@ export default {
     getAllArticle()
       .then((res) => {
         console.log(res);
-        console.log(1111);
         res.forEach((e) => {
           this.articleList.push({
             title: e.author,
@@ -107,6 +106,7 @@ export default {
             description: e.description,
           });
         });
+        console.log(this.articleList);
       })
       .catch((err) => {});
   },
